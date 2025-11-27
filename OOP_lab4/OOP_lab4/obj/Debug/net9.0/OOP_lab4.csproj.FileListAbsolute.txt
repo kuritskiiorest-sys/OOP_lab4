@@ -1,0 +1,14 @@
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\bin\Debug\net9.0\OOP_lab4.exe
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\bin\Debug\net9.0\OOP_lab4.deps.json
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\bin\Debug\net9.0\OOP_lab4.runtimeconfig.json
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\bin\Debug\net9.0\OOP_lab4.dll
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\bin\Debug\net9.0\OOP_lab4.pdb
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.AssemblyInfoInputs.cache
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.AssemblyInfo.cs
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.dll
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\refint\OOP_lab4.dll
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.pdb
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\OOP_lab4.genruntimeconfig.cache
+C:\Users\Орест\OneDrive\Desktop\Lab1Sorting\OOP_lab4\OOP_lab4\obj\Debug\net9.0\ref\OOP_lab4.dll
